@@ -1,0 +1,6 @@
+framework module Pods_CLGeocoderTestsTests {
+  umbrella header "Pods-CLGeocoderTestsTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
